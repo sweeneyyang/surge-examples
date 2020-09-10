@@ -15,8 +15,3 @@ Storm data is automatically downloaded from the NOAA atcf archive at: https://ft
 ## Gauges
 
 Gauges 1-5 in the example correspond to 5 NOAA gauges along the US South Coast in Louisiana. The `fetch_noaa_tide_data()` method is used to compare the simulated gauge data to real data in setplot.py. 
-
-
-```python
-
-```
